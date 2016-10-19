@@ -1,0 +1,39 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "466f7f27-c32d-46b3-a308-7265d6c75089"
+  "atom-ternjs":
+    inlineFnCompletionDocumentation: true
+    useSnippets: true
+  "autocomplete-plus":
+    minimumWordLength: 2
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "atom-bootstrap3"
+    ]
+    packagesWithKeymapsDisabled: []
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontSize: 16
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "aa534b9e-38e1-63e5-87ea-5ce86028dc8f"
+  minimap:
+    plugins:
+      pigments: true
+      pigmentsDecorationsZIndex: 0
+  "vim-mode":
+    useClipboardAsDefaultRegister: true
+  "vim-mode-clipboard-plus":
+    useVimModePlus: true
+  "vim-mode-plus":
+    useClipboardAsDefaultRegister: true
+  welcome:
+    showOnStartup: false
+".js.source":
+  editor:
+    softWrap: true
